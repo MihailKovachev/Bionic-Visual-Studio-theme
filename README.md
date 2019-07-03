@@ -1,3 +1,3 @@
 # Bionic-Visual-Studio-theme
 
-![Screenshot](Theme.png)
+![Screenshot](Theme.PNG)
