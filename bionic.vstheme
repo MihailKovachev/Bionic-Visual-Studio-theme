@@ -1186,7 +1186,7 @@
       </Color>
       <Color Name="CppTypeSemanticTokenFormat">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF4EC9B0" />
+        <Foreground Type="CT_RAW" Source="FF00D7AB" />
       </Color>
       <Color Name="CppRefTypeSemanticTokenFormat">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -1210,7 +1210,7 @@
       </Color>
       <Color Name="CppStaticMemberFunctionSemanticTokenFormat">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF3F66FF" />
+        <Foreground Type="CT_RAW" Source="FF00FFD0" />
       </Color>
       <Color Name="CppStaticMemberFieldSemanticTokenFormat">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -1238,7 +1238,7 @@
       </Color>
       <Color Name="CppNamespaceSemanticTokenFormat">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFFFC300" />
+        <Foreground Type="CT_RAW" Source="FF4863A0" />
       </Color>
       <Color Name="CppLabelSemanticTokenFormat">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
